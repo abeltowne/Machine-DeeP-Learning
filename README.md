@@ -11,3 +11,5 @@ Numpy是Python的一个科学计算的库，提供了矩阵运算的功能，其
 ## 第五个为Scipy
 Scipy是一个高级的科学计算库，它和Numpy联系很密切，Scipy一般都是操控Numpy数组来进行科学计算，所以可以说是基于Numpy之上了。[Scipy](http://blog.csdn.net/q583501947/article/details/76735870)
 还有像scipy的其他模块[high-level scientific computing](http://www.scipy-lectures.org/intro/scipy.html)
+## 第六个为matplotlib
+matplotlib 绘图可视化知识点整理[matplotlib](http://python.jobbole.com/85106/)
