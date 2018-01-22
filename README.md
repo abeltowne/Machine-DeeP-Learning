@@ -14,4 +14,4 @@ Scipy是一个高级的科学计算库，它和Numpy联系很密切，Scipy一�
 ## 第六个为matplotlib
 matplotlib 绘图可视化知识点整理[matplotlib](http://python.jobbole.com/85106/)
 ## 第七个为scikit-learn中的逻辑回归
-<html>据说可以用标签<\html>
+<html>据说可以用标签</html>
