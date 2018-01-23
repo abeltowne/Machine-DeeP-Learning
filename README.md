@@ -17,4 +17,6 @@ matplotlib 绘图可视化知识点整理[matplotlib](http://python.jobbole.com/
 `scikit-learn-逻辑回归实践中主要写了如何标准化数据，逻辑回归预测，对其中较为难理解的函数也相应找到对应理解` [logistic](http://blog.csdn.net/pipisorry/article/details/52251305)
 ## 第八个为scikit-learn中的朴素贝叶斯
 `它也是最有名的机器学习的算法之一，它的主要任务是恢复训练样本的数据分布密度。这个方法通常在多类的分类问题上，小样本量问题表现的很好。`[朴素贝叶斯](http://blog.csdn.net/pipisorry/article/details/52251305)。对拉普拉斯平滑的理解[朴素贝叶斯](https://yq.aliyun.com/articles/113512)
+## 第九个为scikit-learn中的最近邻
+`这是第一遍觉得最容易懂的算法它的思想是通过一个点最邻接的k个点的分类来预测这个点的分类。`[KNN](http://blog.itpub.net/29829936/viewspace-2149679/)
 
