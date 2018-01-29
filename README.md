@@ -5,7 +5,8 @@
 ## 第二个为pylab+matplotlib.
 这两个都是绘图库，[pylab+matplotlib](http://www.cnblogs.com/webary/p/5813855.html)
 ## 第三个为pandas
-* 兼具NumPy高性能的数组计算功能以及电子表格和关系型数据库灵活的数据处理功能。他提供了复杂精细的索引功能，以便更为便捷地完成重塑、切片和切块，聚合以及选取数据子集等操作。[pandas](http://python.jobbole.com/84416/)<br> * pandas数据基础（索引，排序，连接，去重，分箱，异步处理）[pandas基础](http://blog.csdn.net/niuniuyuh/article/details/77102442)
+* 兼具NumPy高性能的数组计算功能以及电子表格和关系型数据库灵活的数据处理功能。他提供了复杂精细的索引功能，以便更为便捷地完成重塑、切片和切块，聚合以及选取数据子集等操作。[pandas](http://python.jobbole.com/84416/)<br>/
+* pandas数据基础（索引，排序，连接，去重，分箱，异步处理）[pandas基础](http://blog.csdn.net/niuniuyuh/article/details/77102442)
 ## 第四个为Numpy
 Numpy是Python的一个科学计算的库，提供了矩阵运算的功能，其一般与Scipy、matplotlib一起使用。[Numpy](http://www.jb51.net/article/49397.htm)
 ## 第五个为Scipy
