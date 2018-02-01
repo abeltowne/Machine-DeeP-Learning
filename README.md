@@ -3,7 +3,7 @@
 ## 第一个为Statsmodels.
 快速入门 [Statsmodels](http://blog.163.com/bioinfor_cnu/blog/static/1944622372015815103523278/)
 ## 第二个为seaborn.
-Seaborn其实是在matplotlib的基础上进行了更高级的API封装，从而使得作图更加容易，在大多数情况下使用seaborn就能做出很具有吸引力的图。[seaborn](http://blog.csdn.net/qq_34264472/article/details/53814653)
+Seaborn其实是在matplotlib的基础上进行了更高级的API封装，从而使得作图更加容易，在大多数情况下使用seaborn就能做出很具有吸引力的图。[seaborn](http://blog.csdn.net/SA14023053/article/details/51703087)
 ## 第三个为pandas
 * 兼具NumPy高性能的数组计算功能以及电子表格和关系型数据库灵活的数据处理功能。他提供了复杂精细的索引功能，以便更为便捷地完成重塑、切片和切块，聚合以及选取数据子集等操作。[pandas](http://python.jobbole.com/84416/)<br>
 * pandas数据基础（索引，排序，连接，去重，分箱，异步处理）[pandas基础](http://blog.csdn.net/niuniuyuh/article/details/77102442)
