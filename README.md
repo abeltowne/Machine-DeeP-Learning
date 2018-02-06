@@ -1,7 +1,9 @@
 这是一篇关于机器学习和深度学习的实战知识点集
 ===
-## 第一个为Statsmodels.
-快速入门 [Statsmodels](http://blog.163.com/bioinfor_cnu/blog/static/1944622372015815103523278/)
+## 第一个为统计学基础和Python基础.
+* 快速入门 [Statsmodels](http://blog.163.com/bioinfor_cnu/blog/static/1944622372015815103523278/)<br>
+* Python零碎点集<br>
+  >>joblib是对机器学习模型的保存重新恢复加载[joblib](http://blog.csdn.net/Dream_angel_Z/article/details/47175373)
 ## 第二个为seaborn.
 Seaborn其实是在matplotlib的基础上进行了更高级的API封装，从而使得作图更加容易，在大多数情况下使用seaborn就能做出很具有吸引力的图。[seaborn](http://blog.csdn.net/suzyu12345/article/details/69029106)
 ## 第三个为pandas
