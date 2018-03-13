@@ -36,3 +36,5 @@ Scipy是一个高级的科学计算库，它和Numpy联系很密切，Scipy一�
 ## 第十四个为BP神经网络
 `本篇为BP神经网络基础。BP网络学习算法的实质是使网络输出总误差函数E的达到最小，因此这是一个优化问题，BP算法具体就是采用“最速下降法”使总误差函数尽量达到最小`[BP神经网络](http://python.jobbole.com/82208/)
 ![](http://img.blog.csdn.net/20170211175842071?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvdHloal9zZg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+## 第十五个为tensorflow
+`TensorFlow是用Python调用API库，C++运行底层代码，所以库非常丰富，代码很灵活，同事运行效率也特别高，在TensorFlow基础和tensorboard中分别展示了TensorFlow的基础使用案例，同时也做了可视化的分析`
